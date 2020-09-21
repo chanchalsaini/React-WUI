@@ -10,8 +10,7 @@ export const AllData = [
   {
     id: 2,
     head: "Card 2",
-    imgCard:
-      "https://images.unsplash.com/photo-1494548162494-384bba4ab999?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+    imgCard: "",
     bottom: "lorwemlorwemlorwemlorwemlorwemlo",
   },
 
@@ -25,24 +24,21 @@ export const AllData = [
   {
     id: 4,
     head: "Card 4",
-    imgCard:
-      "https://image.shutterstock.com/image-photo/bright-spring-view-cameo-island-260nw-1048185397.jpg",
+    imgCard: "",
     bottom: "lorwemlorwemlorwemlorwemlorwemlo",
   },
 
   {
     id: 5,
     head: "Card 5",
-    imgCard:
-      "https://static.toiimg.com/thumb/72975551.cms?width=680&height=512&imgsize=881753",
+    imgCard: "",
     bottom: "lorwemlorwemlorwemlorwemlorwemlo",
   },
 
   {
     id: 6,
     head: "Card 6",
-    imgCard:
-      "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+    imgCard: "",
     bottom: "lorwemlorwemlorwemlorwemlorwemlo",
   },
 ];

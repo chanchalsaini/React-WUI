@@ -46,4 +46,9 @@ header {
   align-items: center;
   justify-content: center;
   text-align: center;
+  background-color: blue;
+}
+.bottom 
+  width: 100px;
+  text-align: center;
 }

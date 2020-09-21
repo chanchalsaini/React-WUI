@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+}
+header {
+  background-color: bisque;
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 40px;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+}
+.logo {
+  text-decoration: none;
+}
+.links {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+.link {
+  text-decoration: none;
+  color: black;
+  margin: 0px 10px;
+}

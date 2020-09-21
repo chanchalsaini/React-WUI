@@ -46,4 +46,8 @@ header {
   align-items: center;
   justify-content: center;
   text-align: center;
+  background-color: ;
+}
+.bottom {
+  width: 100px;
 }

@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+}
+header {
+  background-color: bisque;
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 40px;
+}
+.links {
+  list-style: none;
+  display: flex;
+}
