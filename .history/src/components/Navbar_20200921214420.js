@@ -7,16 +7,16 @@ function Navbar() {
         LOGO
       </a>
       <ul className='links'>
-        <a href='#'>
+        <a>
           <li className='link'>Home</li>
         </a>
-        <a href='#'>
+        <a>
           <li className='link'>About</li>
         </a>
-        <a href='#'>
+        <a>
           <li className='link'>Services</li>
         </a>
-        <a href='#'>
+        <a>
           <li className='link'>Contact</li>
         </a>
       </ul>
